@@ -1,0 +1,15 @@
+--- Create Account ---
+Enter username: Affan king 
+Enter initial balance: 100000
+Account type: normal
+✅ Account created successfully: Affan king 
+--- Create Account ---
+Enter username: Aman king
+Enter initial balance: 9000
+Account type: 
+✅ Account created successfully: Aman king
+--- Create Account ---
+Enter username: Asjad 
+Enter initial balance: 2000
+Account type: saving
+✅ Account created successfully: Asjad 

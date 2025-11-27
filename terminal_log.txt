@@ -1,0 +1,52 @@
+--- Create Account ---
+✅ Account created successfully!
+--- Create Account ---
+Enter username: Aman
+Enter initial balance: 100
+Account type (normal/saving): normal
+✅ Account created successfully!
+--- Create Account ---
+Enter username: waseem 
+Enter initial balance: 10000
+Account type (normal/saving): saving
+✅ Account created successfully!
+--- Create Account ---
+Enter username: Kasim
+Enter initial balance: 10023
+Account type (normal/saving): saving
+✅ Account created successfully!
+--- Create Account ---
+Enter username: manav
+Enter initial balance: 1268
+Account type (normal/saving): saving
+✅ Account created successfully!
+--- Create Account ---
+Enter username: rahul
+Enter initial balance: 1000
+Account type (normal/saving): saving
+✅ Account created successfully!
+--- Create Account ---
+Enter username: Kasori
+Enter initial balance: 17200
+Account type (normal/saving): saving
+✅ Account created successfully!
+--- Create Account ---
+Enter username: Kasori 
+Enter initial balance: 12200
+Account type (normal/saving): saving
+✅ Account created successfully!
+--- Create Account ---
+Enter username: adbafb
+Enter initial balance: 23826
+Account type (normal/saving): saving
+✅ Account created successfully!
+--- Create Account ---
+Enter username: Affan
+Enter initial balance: 2737
+Account type (normal/saving): saving
+✅ Account created successfully!
+--- Create Account ---
+Enter username: Akasar
+Enter initial balance: 1000
+Account type (normal/saving): saving
+✅ Account created successfully!
